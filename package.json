@@ -47,7 +47,8 @@
     "@storybook/preset-create-react-app": "^3.1.4",
     "@storybook/react": "^6.0.16",
     "babel-loader": "^8.1.0",
-    "react-is": "^16.13.1"
+    "react-is": "^16.13.1",
+    "semantic-release": "^17.1.1"
   },
   "resolutions": {
     "prettier": "~2.0.0"
