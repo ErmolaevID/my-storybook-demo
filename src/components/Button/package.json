@@ -15,6 +15,10 @@
     "react-scripts": "3.4.3",
     "typescript": "~3.7.2"
   },
+  "repository": {
+    "url": "https://github.com/ErmolaevID/my-storybook-demo"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "author": "Ermolaev Ilya <Ermolaev.ID@yandex.ru>",
   "license": "MIT"
 }
