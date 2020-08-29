@@ -1,5 +1,5 @@
 {
-  "name": "first-npm-package-ermolaev",
+  "name": "@ermolaev/first-npm-package-ermolaev",
   "version": "1.1.0",
   "description": "Just for test",
   "dependencies": {
